@@ -1,0 +1,13 @@
+renewal,expiration,users,churned,churn_pct
+Auto-renew off,1–7 days,18147,7541,41.555077974320824
+Auto-renew off,8–30 days,69028,27573,39.94466013791505
+Auto-renew off,>30 days,954,637,66.77148846960168
+Auto-renew off,Cutoff day,430,108,25.116279069767444
+Auto-renew off,Expired,3094,2133,68.939883645766
+Auto-renew off,Unknown,16,11,68.75
+Auto-renew on,1–7 days,140873,6164,4.375572324008149
+Auto-renew on,8–30 days,439579,17564,3.995641284046781
+Auto-renew on,>30 days,89177,1728,1.9377193671013826
+Auto-renew on,Cutoff day,5925,686,11.578059071729959
+Auto-renew on,Expired,7518,4636,61.66533652567172
+Unknown,Unknown,2027,1083,53.42871238283177
