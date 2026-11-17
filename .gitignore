@@ -1,1 +1,9 @@
 /data/
+/kkbox_work/
+/reports/kkbox_v2_eda/test_user_ids.csv
+.DS_Store
+__pycache__/
+*.py[cod]
+/.tmp/
+/.venv/
+.ipynb_checkpoints/
